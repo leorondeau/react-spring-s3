@@ -1,0 +1,7 @@
+cloud:
+  aws:
+    region: us-east-2
+    auto: false
+  credentials:
+    access-key: AKIAY3JGGVL5HAPBYOE5
+    secret-key: 4W9dJVSw0Kv7ThD3qcEGmWtKc1bUrygsEFMVcXZ
